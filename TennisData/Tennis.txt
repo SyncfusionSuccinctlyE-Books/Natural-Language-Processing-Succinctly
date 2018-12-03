@@ -1,0 +1,400 @@
+AUS|M|1969|Rod Laver|1| AUS|Andrés Gimeno|9| ESP|6–3, 6–4, 7–5
+AUS|M|1970|Arthur Ashe|4| USA|Dick Crealy|12| AUS|6–4, 9–7, 6–2
+AUS|M|1971|Ken Rosewall|2| AUS|Arthur Ashe|3| USA|6–1, 7–5, 6–3
+AUS|M|1972|Ken Rosewall|2| AUS|Malcolm Anderson|8| AUS|7–6(7–2), 6–3, 7–5
+AUS|M|1973|John Newcombe|2| AUS|Onny Parun|12| NZL|6–3, 6–7, 7–5, 6–1
+AUS|M|1974|Jimmy Connors|2| USA|Phil Dent|9| AUS|7–6(9–7), 6–4, 4–6, 6–3
+AUS|M|1975|John Newcombe|2| AUS|Jimmy Connors|1| USA|7–5, 3–6, 6–4, 7–6(9–7)
+AUS|M|1976|Mark Edmondson|0| AUS|John Newcombe|2| AUS|6–7, 6–3, 7–6, 6–1
+AUS|M|1977|Roscoe Tanner|2| USA|Guillermo Vilas|1| ARG|6–3, 6–3, 6–3
+AUS|M|1977|Vitas Gerulaitis|1| USA|John Lloyd|0| GBR|6–3, 7–6(7–1), 5–7, 3–6, 6–2
+AUS|M|1978|Guillermo Vilas|1| ARG|John Marks|0| AUS|6–4, 6–4, 3–6, 6–3
+AUS|M|1979|Guillermo Vilas|1| ARG|John Sadri|6| USA|7–6(7–4), 6–3, 6–2
+AUS|M|1980|Brian Teacher|8| USA|Kim Warwick|14| AUS|7–5, 7–6(7–4), 6–3
+AUS|M|1981|Johan Kriek|4| RSA|Steve Denton|0| USA|6–2, 7–6(7–1), 6–7(1–7), 6–4
+AUS|M|1982|Johan Kriek|1| USA|Steve Denton|2| USA|6–3, 6–3, 6–2
+AUS|M|1983|Mats Wilander|3| SWE|Ivan Lendl|1| TCH|6–1, 6–4, 6–4
+AUS|M|1984|Mats Wilander|2| SWE|Kevin Curren|9| RSA|6–7(5–7), 6–4, 7–6(7–3), 6–2
+AUS|M|1985|Stefan Edberg|6| SWE|Mats Wilander|3| SWE|6–4, 6–3, 6–3
+AUS|M|1987|Stefan Edberg|4| SWE|Pat Cash|11| AUS|6–3, 6–4, 3–6, 5–7, 6–3
+AUS|M|1988|Mats Wilander|3| SWE|Pat Cash|4| AUS|6–3, 6–7(3–7), 3–6, 6–1, 8–6
+AUS|M|1989|Ivan Lendl|2| TCH|Miloslav Mečíř|9| TCH|6–2, 6–2, 6–2
+AUS|M|1990|Ivan Lendl|1| TCH|Stefan Edberg|3| SWE|4–6, 7–6(7–3), 5–2 retired
+AUS|M|1991|Boris Becker|2| GER|Ivan Lendl|3| TCH|1–6, 6–4, 6–4, 6–4
+AUS|M|1992|Jim Courier|2| USA|Stefan Edberg|1| SWE|6–3, 3–6, 6–4, 6–2
+AUS|M|1993|Jim Courier|1| USA|Stefan Edberg|2| SWE|6–2, 6–1, 2–6, 7–5
+AUS|M|1994|Pete Sampras|1| USA|Todd Martin|9| USA|7–6(7–4), 6–4, 6–4
+AUS|M|1995|Andre Agassi|2| USA|Pete Sampras|1| USA|4–6, 6–1, 7–6(8–6), 6–4
+AUS|M|1996|Boris Becker|4| GER|Michael Chang|5| USA|6–2, 6–4, 2–6, 6–2
+AUS|M|1997|Pete Sampras|1| USA|Carlos Moyá|0| ESP|6–2, 6–3, 6–3
+AUS|M|1998|Petr Korda|6| CZE|Marcelo Ríos|9| CHI|6–2, 6–2, 6–2
+AUS|M|1999|Yevgeny Kafelnikov|10| RUS|Thomas Enqvist|0| SWE|4–6, 6–0, 6–3, 7–6(7–1)
+AUS|M|2000|Andre Agassi|1| USA|Yevgeny Kafelnikov|2| RUS|3–6, 6–3, 6–2, 6–4
+AUS|M|2001|Andre Agassi|6| USA|Arnaud Clément|15| FRA|6–4, 6–2, 6–2
+AUS|M|2002|Thomas Johansson|16| SWE|Marat Safin|9| RUS|3–6, 6–4, 6–4, 7–6(7–4)
+AUS|M|2003|Andre Agassi|2| USA|Rainer Schüttler|31| GER|6–2, 6–2, 6–1
+AUS|M|2004|Roger Federer|2|  SUI|Marat Safin|0| RUS|7–6(7–3), 6–4, 6–2
+AUS|M|2005|Marat Safin|4| RUS|Lleyton Hewitt|3| AUS|1–6, 6–3, 6–4, 6–4
+AUS|M|2006|Roger Federer|1|  SUI|Marcos Baghdatis|0| CYP|5–7, 7–5, 6–0, 6–2
+AUS|M|2007|Roger Federer|1|  SUI|Fernando González|10| CHI|7–6(7–2), 6–4, 6–4
+AUS|M|2008|Novak Djokovic|3| SRB|Jo-Wilfried Tsonga|0| FRA|4–6, 6–4, 6–3, 7–6(7–2)
+AUS|M|2009|Rafael Nadal|1| ESP|Roger Federer|2|  SUI|7–5, 3–6, 7–6(7–3), 3–6, 6–2
+AUS|M|2010|Roger Federer|1|  SUI|Andy Murray|5| GBR|6–3, 6–4, 7–6(13–11)
+AUS|M|2011|Novak Djokovic|3| SRB|Andy Murray|5| GBR|6–4, 6–2, 6–3
+AUS|M|2012|Novak Djokovic|1| SRB|Rafael Nadal|2| ESP|5–7, 6–4, 6–2, 6–7(5–7), 7–5
+AUS|M|2013|Novak Djokovic|1| SRB|Andy Murray|3| GBR|6–7(2–7), 7–6(7–3), 6–3, 6–2
+AUS|M|2014|Stan Wawrinka|8|  SUI|Rafael Nadal|1| ESP|6–3, 6–2, 3–6, 6–3
+AUS|M|2015|Novak Djokovic|1| SRB|Andy Murray|6| GBR|7–6(7–5), 6–7(4–7), 6–3, 6–0
+AUS|M|2016|Novak Djokovic|1| SRB|Andy Murray|2| GBR|6–1, 7–5, 7–6(7–3)
+AUS|M|2017|Roger Federer|17|  SUI|Rafael Nadal|9| ESP|6–4, 3–6, 6–1, 3–6, 6–3
+AUS|M|2018|Roger Federer|2|SUI|Marin Cilic|6|CRO|6-2, 6-7(7-5), 6-3, 3-6, 6-1
+AUS|F|1969|Margaret Court|2| AUS|Billie Jean King|1| USA|6–4, 6–1
+AUS|F|1970|Margaret Court|1| AUS|Kerry Melville|2| AUS|6–1, 6–3
+AUS|F|1971|Margaret Court|1| AUS|Evonne Goolagong|2| AUS|2–6, 7–6(7–0), 7–5
+AUS|F|1972|Virginia Wade|2| GBR|Evonne Goolagong|1| AUS|6–4, 6–4
+AUS|F|1973|Margaret Court|1| AUS|Evonne Goolagong|2| AUS|6–4, 7–5
+AUS|F|1974|Evonne Goolagong|2| AUS|Chris Evert|1| USA|7–6(7–5), 4–6, 6–0
+AUS|F|1975|Evonne Goolagong|3| AUS|Martina Navratilova|8| TCH|6–3, 6–2
+AUS|F|1976|Evonne Goolagong|1| AUS|Renáta Tomanová|5| TCH|6–2, 6–2
+AUS|F|1977|Kerry Melville Reid|2| AUS|Dianne Fromholtz|1| AUS|7–5, 6–2
+AUS|F|1977|Evonne Goolagong|1| AUS|Helen Gourlay|5| AUS|6–3, 6–0
+AUS|F|1978|Chris O'Neil|0| AUS|Betsy Nagelsen|7| USA|6–3, 7–6(7–3)
+AUS|F|1979|Barbara Jordan|5| USA|Sharon Walsh|4| USA|6–3, 6–3
+AUS|F|1980|Hana Mandlíková|3| TCH|Wendy Turnbull|4| AUS|6–0, 7–5
+AUS|F|1981|Martina Navratilova|3| USA|Chris Evert|1| USA|6–7(7–4), 6–4, 7–5
+AUS|F|1982|Chris Evert|2| USA|Martina Navratilova|1| USA|6–3, 2–6, 6–3
+AUS|F|1983|Martina Navratilova|1| USA|Kathy Jordan|9| USA|6–2, 7–6(7–5)
+AUS|F|1984|Chris Evert|2| USA|Helena Suková|9| TCH|6–7(4–7), 6–1, 6–3
+AUS|F|1985|Martina Navratilova|2| USA|Chris Evert|1| USA|6–2, 4–6, 6–2
+AUS|F|1987|Hana Mandlíková|2| TCH|Martina Navratilova|1| USA|7–5, 7–6(7–1)
+AUS|F|1988|Steffi Graf|1| FRG|Chris Evert|3| USA|6–1, 7–6(7–3)
+AUS|F|1989|Steffi Graf|1| FRG|Helena Suková|5| TCH|6–4, 6–4
+AUS|F|1990|Steffi Graf|1| FRG|Mary Joe Fernández|6| USA|6–3, 6–4
+AUS|F|1991|Monica Seles|2| YUG|Jana Novotná|10| TCH|5–7, 6–3, 6–1
+AUS|F|1992|Monica Seles|1| YUG|Mary Joe Fernández|7| USA|6–2, 6–3
+AUS|F|1993|Monica Seles|1| YUG|Steffi Graf|2| GER|4–6, 6–3, 6–2
+AUS|F|1994|Steffi Graf|1| GER|Arantxa Sánchez Vicario|2| ESP|6–0, 6–2
+AUS|F|1995|Mary Pierce|4| FRA|Arantxa Sánchez Vicario|1| ESP|6–3, 6–2
+AUS|F|1996|Monica Seles|1| USA|Anke Huber|8| GER|6–4, 6–1
+AUS|F|1997|Martina Hingis|4| SUI|Mary Pierce|0| FRA|6–2, 6–2
+AUS|F|1998|Martina Hingis|1| SUI|Conchita Martínez|8| ESP|6–3, 6–3
+AUS|F|1999|Martina Hingis|2| SUI|Amélie Mauresmo|0| FRA|6–2, 6–3
+AUS|F|2000|Lindsay Davenport|2| USA|Martina Hingis|1| SUI|6–1, 7–5
+AUS|F|2001|Jennifer Capriati|12| USA|Martina Hingis|1| SUI|6–4, 6–3
+AUS|F|2002|Jennifer Capriati|1| USA|Martina Hingis|3| SUI|4–6, 7–6(9–7), 6–2
+AUS|F|2003|Serena Williams|1| USA|Venus Williams|2| USA|7–6(7–4), 3–6, 6–4
+AUS|F|2004|Justine Henin|1| BEL|Kim Clijsters|2| BEL|6–3, 4–6, 6–3
+AUS|F|2005|Serena Williams|7| USA|Lindsay Davenport|1| USA|2–6, 6–3, 6–0
+AUS|F|2006|Amélie Mauresmo|3| FRA|Justine Henin|8| BEL|6–1, 2–0 retired
+AUS|F|2007|Serena Williams|0| USA|Maria Sharapova|1| RUS|6–1, 6–2
+AUS|F|2008|Maria Sharapova|5| RUS|Ana Ivanovic|4| SRB|7–5, 6–3
+AUS|F|2009|Serena Williams|2| USA|Dinara Safina|3| RUS|6–0, 6–3
+AUS|F|2010|Serena Williams|1| USA|Justine Henin|0| BEL|6–4, 3–6, 6–2
+AUS|F|2011|Kim Clijsters|3| BEL|Li Na|9| CHN|3–6, 6–3, 6–3
+AUS|F|2012|Victoria Azarenka|3| BLR|Maria Sharapova|4| RUS|6–3, 6–0
+AUS|F|2013|Victoria Azarenka|1| BLR|Li Na|6| CHN|4–6, 6–4, 6–3
+AUS|F|2014|Li Na|4| CHN|Dominika Cibulková|20| SVK|7–6(7–3), 6–0
+AUS|F|2015|Serena Williams|1| USA|Maria Sharapova|2| RUS|6–3, 7–6(7–5)
+AUS|F|2016|Angelique Kerber|7| GER|Serena Williams|1| USA|6–4, 3–6, 6–4
+AUS|F|2017|Serena Williams|2| USA|Venus Williams|13| USA|6–4, 6–4
+AUS|F|2018|Caroline Wozniacki|2|DEN|Simona Halep|1|ROU|7-6(7-2), 3-6, 6-4
+FRENCH|F|1968|Nancy Richey|5| USA|Ann Haydon Jones|2| GBR|5–7, 6–4, 6–1
+FRENCH|F|1969|Margaret Court|1| AUS|Ann Haydon Jones|3| GBR|6–1, 4–6, 6–3
+FRENCH|F|1970|Margaret Court|1| AUS|Helga Niessen|7| FRG|6–2, 6–4
+FRENCH|F|1971|Evonne Goolagong|3| AUS|Helen Gourlay|0| AUS|6–3, 7–5
+FRENCH|F|1972|Billie Jean King|3| USA|Evonne Goolagong|1| AUS|6–3, 6–3
+FRENCH|F|1973|Margaret Court|1| AUS|Chris Evert|2| USA|6–7(5–7), 7–6(8–6), 6–4
+FRENCH|F|1974|Chris Evert|1| USA|Olga Morozova|3| URS|6–1, 6–2
+FRENCH|F|1975|Chris Evert|1| USA|Martina Navratilova|2| TCH|2–6, 6–2, 6–1
+FRENCH|F|1976|Sue Barker|1| GBR|Renáta Tomanová|0| TCH|6–2, 0–6, 6–2
+FRENCH|F|1977|Mima Jaušovec|1| YUG|Florența Mihai|0| ROU|6–2, 6–7(5–7), 6–1
+FRENCH|F|1978|Virginia Ruzici|2| ROU|Mima Jaušovec|1| YUG|6–2, 6–2
+FRENCH|F|1979|Chris Evert|1| USA|Wendy Turnbull|4| AUS|6–2, 6–0
+FRENCH|F|1980|Chris Evert|1| USA|Virginia Ruzici|8| ROU|6–0, 6–3
+FRENCH|F|1981|Hana Mandlíková|4| TCH|Sylvia Hanika|6| FRG|6–2, 6–4
+FRENCH|F|1982|Martina Navratilova|2| USA|Andrea Jaeger|4| USA|7–6(8–6), 6–1
+FRENCH|F|1983|Chris Evert|2| USA|Mima Jaušovec|0| YUG|6–1, 6–2
+FRENCH|F|1984|Martina Navratilova|1| USA|Chris Evert|2| USA|6–3, 6–1
+FRENCH|F|1985|Chris Evert|2| USA|Martina Navratilova|1| USA|6–3, 6–7(4–7), 7–5
+FRENCH|F|1986|Chris Evert|2| USA|Martina Navratilova|1| USA|2–6, 6–3, 6–3
+FRENCH|F|1987|Steffi Graf|2| FRG|Martina Navratilova|1| USA|6–4, 4–6, 8–6
+FRENCH|F|1988|Steffi Graf|1| FRG|Natasha Zvereva|13| URS|6–0, 6–0
+FRENCH|F|1989|Arantxa Sánchez Vicario|7| ESP|Steffi Graf|1| FRG|7–6(8–6), 3–6, 7–5
+FRENCH|F|1990|Monica Seles|2| YUG|Steffi Graf|1| FRG|7–6(8–6), 6–4
+FRENCH|F|1991|Monica Seles|1| YUG|Arantxa Sánchez Vicario|5| ESP|6–3, 6–4
+FRENCH|F|1992|Monica Seles|1| YUG|Steffi Graf|2| GER|6–2, 3–6, 10–8
+FRENCH|F|1993|Steffi Graf|1| GER|Mary Joe Fernández|5| USA|4–6, 6–2, 6–4
+FRENCH|F|1994|Arantxa Sánchez Vicario|2| ESP|Mary Pierce|12| FRA|6–4, 6–4
+FRENCH|F|1995|Steffi Graf|2| GER|Arantxa Sánchez Vicario|1| ESP|7–5, 4–6, 6–0
+FRENCH|F|1996|Steffi Graf|1| GER|Arantxa Sánchez Vicario|4| ESP|6–3, 6–7(4–7), 10–8
+FRENCH|F|1997|Iva Majoli|9| CRO|Martina Hingis|1| SUI|6–4, 6–2
+FRENCH|F|1998|Arantxa Sánchez Vicario|4| ESP|Monica Seles|6| USA|7–6(7–5), 0–6, 6–2
+FRENCH|F|1999|Steffi Graf|6| GER|Martina Hingis|1| SUI|4–6, 7–5, 6–2
+FRENCH|F|2000|Mary Pierce|6| FRA|Conchita Martínez|5| ESP|6–2, 7–5
+FRENCH|F|2001|Jennifer Capriati|4| USA|Kim Clijsters|12| BEL|1–6, 6–4, 12–10
+FRENCH|F|2002|Serena Williams|3| USA|Venus Williams|2| USA|7–5, 6–3
+FRENCH|F|2003|Justine Henin|4| BEL|Kim Clijsters|2| BEL|6–0, 6–4
+FRENCH|F|2004|Anastasia Myskina|6| RUS|Elena Dementieva|9| RUS|6–1, 6–2
+FRENCH|F|2005|Justine Henin|10| BEL|Mary Pierce|21| FRA|6–1, 6–1
+FRENCH|F|2006|Justine Henin|5| BEL|Svetlana Kuznetsova|8| RUS|6–4, 6–4
+FRENCH|F|2007|Justine Henin|1| BEL|Ana Ivanovic|7| SRB|6–1, 6–2
+FRENCH|F|2008|Ana Ivanovic|2| SRB|Dinara Safina|13| RUS|6–4, 6–3
+FRENCH|F|2009|Svetlana Kuznetsova|7| RUS|Dinara Safina|1| RUS|6–4, 6–2
+FRENCH|F|2010|Francesca Schiavone|17| ITA|Samantha Stosur|7| AUS|6–4, 7–6(7–2)
+FRENCH|F|2011|Li Na|6| CHN|Francesca Schiavone|5| ITA|6–4, 7–6(7–0)
+FRENCH|F|2012|Maria Sharapova|2| RUS|Sara Errani|21| ITA|6–3, 6–2
+FRENCH|F|2013|Serena Williams|1| USA|Maria Sharapova|2| RUS|6–4, 6–4
+FRENCH|F|2014|Maria Sharapova|7| RUS|Simona Halep|4| ROU|6–4, 6–7(5–7), 6–4
+FRENCH|F|2015|Serena Williams|1| USA|Lucie Šafářová|13| CZE|6–3, 6–7(2–7), 6–2
+FRENCH|F|2016|Garbiñe Muguruza|4| ESP|Serena Williams|1| USA|7–5, 6–4
+FRENCH|F|2017|Jeļena Ostapenko|0| LAT|Simona Halep|3| ROU|4–6, 6–4, 6–3
+FRENCH| M|1968|Ken Rosewall|2| AUS|Rod Laver|1| AUS|6–3, 6–1, 2–6, 6–2
+FRENCH| M|1969|Rod Laver|1| AUS|Ken Rosewall|4| AUS|6–4, 6–3, 6–4
+FRENCH| M|1970|Jan Kodeš|7| TCH|Željko Franulović|5| YUG|6–2, 6–4, 6–0
+FRENCH| M|1971|Jan Kodeš|1| TCH|Ilie Năstase|3| ROU|8–6, 6–2, 2–6, 7–5
+FRENCH| M|1972|Andrés Gimeno|6| ESP|Patrick Proisy|9| FRA|4–6, 6–3, 6–1, 6–1
+FRENCH| M|1973|Ilie Năstase|2| ROU|Nikola Pilić|0| YUG|6–3, 6–3, 6–0
+FRENCH| M|1974|Björn Borg|3| SWE|Manuel Orantes|14| ESP|2–6, 6–7(1–7), 6–0, 6–1, 6–1
+FRENCH| M|1975|Björn Borg|1| SWE|Guillermo Vilas|4| ARG|6–2, 6–3, 6–4
+FRENCH| M|1976|Adriano Panatta|8| ITA|Harold Solomon|7| USA|6–1, 6–4, 4–6, 7–6(7–3)
+FRENCH| M|1977|Guillermo Vilas|3| ARG|Brian Gottfried|5| USA|6–0, 6–3, 6–0
+FRENCH| M|1978|Björn Borg|1| SWE|Guillermo Vilas|2| ARG|6–1, 6–1, 6–3
+FRENCH| M|1979|Björn Borg|1| SWE|Víctor Pecci|0| PAR|6–3, 6–1, 6–7(6–8), 6–4
+FRENCH| M|1980|Björn Borg|1| SWE|Vitas Gerulaitis|5| USA|6–4, 6–1, 6–2
+FRENCH| M|1981|Björn Borg|1| SWE|Ivan Lendl|5| TCH|6–1, 4–6, 6–2, 3–6, 6–1
+FRENCH| M|1982|Mats Wilander|0| SWE|Guillermo Vilas|3| ARG|1–6, 7–6(8–6), 6–0, 6–4
+FRENCH| M|1983|Yannick Noah|6| FRA|Mats Wilander|5| SWE|6–2, 7–5, 7–6(7–3)
+FRENCH| M|1984|Ivan Lendl|2| TCH|John McEnroe|1| USA|3–6, 2–6, 6–4, 7–5, 7–5
+FRENCH| M|1985|Mats Wilander|4| SWE|Ivan Lendl|2| TCH|3–6, 6–4, 6–2, 6–2
+FRENCH| M|1986|Ivan Lendl|1| TCH|Mikael Pernfors|0| SWE|6–3, 6–2, 6–4
+FRENCH| M|1987|Ivan Lendl|1| TCH|Mats Wilander|4| SWE|7–5, 6–2, 3–6, 7–6(7–3)
+FRENCH| M|1988|Mats Wilander|3| SWE|Henri Leconte|1| FRA|7–5, 6–2, 6–1
+FRENCH| M|1989|Michael Chang|15| USA|Stefan Edberg|3| SWE|6–1, 3–6, 4–6, 6–4, 6–2
+FRENCH| M|1990|Andrés Gómez|4| ECU|Andre Agassi|3| USA|6–3, 2–6, 6–4, 6–4
+FRENCH| M|1991|Jim Courier|9| USA|Andre Agassi|4| USA|3–6, 6–4, 2–6, 6–1, 6–4
+FRENCH| M|1992|Jim Courier|1| USA|Petr Korda|7| TCH|7–5, 6–2, 6–1
+FRENCH| M|1993|Sergi Bruguera|10| ESP|Jim Courier|2| USA|6–4, 2–6, 6–2, 3–6, 6–3
+FRENCH| M|1994|Sergi Bruguera|6| ESP|Alberto Berasategui|0| ESP|6–3, 7–5, 2–6, 6–1
+FRENCH| M|1995|Thomas Muster|5| AUT|Michael Chang|6| USA|7–5, 6–2, 6–4
+FRENCH| M|1996|Yevgeny Kafelnikov|6| RUS|Michael Stich|15| GER|7–6(7–4), 7–5, 7–6(7–4)
+FRENCH| M|1997|Gustavo Kuerten|0| BRA|Sergi Bruguera|16| ESP|6–3, 6–4, 6–2
+FRENCH| M|1998|Carlos Moyá|12| ESP|Àlex Corretja|14| ESP|6–3, 7–5, 6–3
+FRENCH| M|1999|Andre Agassi|13| USA|Andrei Medvedev|0| UKR|1–6, 2–6, 6–4, 6–3, 6–4
+FRENCH| M|2000|Gustavo Kuerten|5| BRA|Magnus Norman|3| SWE|6–2, 6–3, 2–6, 7–6(8–6)
+FRENCH| M|2001|Gustavo Kuerten|1| BRA|Àlex Corretja|13| ESP|6–7(3–7), 7–5, 6–2, 6–0
+FRENCH| M|2002|Albert Costa|20| ESP|Juan Carlos Ferrero|11| ESP|6–1, 6–0, 4–6, 6–3
+FRENCH| M|2003|Juan Carlos Ferrero|3| ESP|Martin Verkerk|0| NED|6–1, 6–3, 6–2
+FRENCH| M|2004|Gastón Gaudio|0| ARG|Guillermo Coria|3| ARG|0–6, 3–6, 6–4, 6–1, 8–6
+FRENCH| M|2005|Rafael Nadal|4| ESP|Mariano Puerta|0| ARG|6–7(6–8), 6–3, 6–1, 7–5
+FRENCH| M|2006|Rafael Nadal|2| ESP|Roger Federer|1|  SUI|1–6, 6–1, 6–4, 7–6(7–4)
+FRENCH| M|2007|Rafael Nadal|2| ESP|Roger Federer|1|  SUI|6–3, 4–6, 6–3, 6–4
+FRENCH| M|2008|Rafael Nadal|2| ESP|Roger Federer|1|  SUI|6–1, 6–3, 6–0
+FRENCH| M|2009|Roger Federer|2| SUI|Robin Söderling|23| SWE|6–1, 7–6(7–1), 6–4
+FRENCH| M|2010|Rafael Nadal|2| ESP|Robin Söderling|5| SWE|6–4, 6–2, 6–4
+FRENCH| M|2011|Rafael Nadal|1| ESP|Roger Federer|3|  SUI|7–5, 7–6(7–3), 5–7, 6–1
+FRENCH| M|2012|Rafael Nadal|2| ESP|Novak Djokovic|1| SRB|6–4, 6–3, 2–6, 7–5
+FRENCH| M|2013|Rafael Nadal|3| ESP|David Ferrer|4| ESP|6–3, 6–2, 6–3
+FRENCH| M|2014|Rafael Nadal|1| ESP|Novak Djokovic|2| SRB|3–6, 7–5, 6–2, 6–4
+FRENCH| M|2015|Stan Wawrinka|8| SUI|Novak Djokovic|1| SRB|4–6, 6–4, 6–3, 6–4
+FRENCH| M|2016|Novak Djokovic|1| SRB|Andy Murray|2| GBR|3–6, 6–1, 6–2, 6–4
+FRENCH| M|2017|Rafael Nadal|4| ESP|Stan Wawrinka|3|  SUI|6–2, 6–3, 6–1
+WIMBLEDON|M|1968|Rod Laver|1| AUS|Tony Roche|15| AUS|6–3, 6–4, 6–2
+WIMBLEDON|M|1969|Rod Laver|1| AUS|John Newcombe|6| AUS|6–4, 5–7, 6–4, 6–4
+WIMBLEDON|M|1970|John Newcombe|2| AUS|Ken Rosewall|5| AUS|5–7, 6–3, 6–2, 3–6, 6–1
+WIMBLEDON|M|1971|John Newcombe|2| AUS|Stan Smith|4| USA|6–3, 5–7, 2–6, 6–4, 6–4
+WIMBLEDON|M|1972|Stan Smith|1| USA|Ilie Năstase|2| ROM|4–6, 6–3, 6–3, 4–6, 7–5
+WIMBLEDON|M|1973|Jan Kodeš|2| TCH|Alex Metreveli|4| URS|6–1, 9–8(7–5), 6–3
+WIMBLEDON|M|1974|Jimmy Connors|3| USA|Ken Rosewall|9| AUS|6–1, 6–1, 6–4
+WIMBLEDON|M|1975|Arthur Ashe|6| USA|Jimmy Connors|1| USA|6–1, 6–1, 5–7, 6–4
+WIMBLEDON|M|1976|Björn Borg|4| SWE|Ilie Năstase|3| ROM|6–4, 6–2, 9–7
+WIMBLEDON|M|1977|Björn Borg|2| SWE|Jimmy Connors|1| USA|3–6, 6–2, 6–1, 5–7, 6–4
+WIMBLEDON|M|1978|Björn Borg|1| SWE|Jimmy Connors|2| USA|6–2, 6–2, 6–3
+WIMBLEDON|M|1979|Björn Borg|1| SWE|Roscoe Tanner|5| USA|6–7(4–7), 6–1, 3–6, 6–3, 6–4
+WIMBLEDON|M|1980|Björn Borg|1| SWE|John McEnroe|2| USA|1–6, 7–5, 6–3, 6–7(16–18), 8–6
+WIMBLEDON|M|1981|John McEnroe|2| USA|Björn Borg|1| SWE|4–6, 7–6(7–1), 7–6(7–4), 6–4
+WIMBLEDON|M|1982|Jimmy Connors|2| USA|John McEnroe|1| USA|3–6, 6–3, 6–7(2–7), 7–6(7–5), 6–4
+WIMBLEDON|M|1983|John McEnroe|2| USA|Chris Lewis|0| NZL|6–2, 6–2, 6–2
+WIMBLEDON|M|1984|John McEnroe|1| USA|Jimmy Connors|3| USA|6–1, 6–1, 6–2
+WIMBLEDON|M|1985|Boris Becker|0| FRG|Kevin Curren|8| USA|6–3, 6–7(4–7), 7–6(7–3), 6–4
+WIMBLEDON|M|1986|Boris Becker|4| FRG|Ivan Lendl|1| TCH|6–4, 6–3, 7–5
+WIMBLEDON|M|1987|Pat Cash|11| AUS|Ivan Lendl|2| TCH|7–6(7–5), 6–2, 7–5
+WIMBLEDON|M|1988|Stefan Edberg|3| SWE|Boris Becker|6| FRG|4–6, 7–6(7–2), 6–4, 6–2
+WIMBLEDON|M|1989|Boris Becker|3| FRG|Stefan Edberg|2| SWE|6–0, 7–6(7–1), 6–4
+WIMBLEDON|M|1990|Stefan Edberg|3| SWE|Boris Becker|2| FRG|6–2, 6–2, 3–6, 3–6, 6–4
+WIMBLEDON|M|1991|Michael Stich|6| GER|Boris Becker|2| GER|6–4, 7–6(7–4), 6–4
+WIMBLEDON|M|1992|Andre Agassi|12| USA|Goran Ivanišević|8| CRO|6–7(8–10), 6–4, 6–4, 1–6, 6–4
+WIMBLEDON|M|1993|Pete Sampras|1| USA|Jim Courier|3| USA|7–6(7–3), 7–6(8–6), 3–6, 6–3
+WIMBLEDON|M|1994|Pete Sampras|1| USA|Goran Ivanišević|4| CRO|7–6(7–2), 7–6(7–5), 6–0
+WIMBLEDON|M|1995|Pete Sampras|2| USA|Boris Becker|3| GER|6–7(5–7), 6–2, 6–4, 6–2
+WIMBLEDON|M|1996|Richard Krajicek|17| NED|MaliVai Washington|0| USA|6–3, 6–4, 6–3
+WIMBLEDON|M|1997|Pete Sampras|1| USA|Cédric Pioline|0| FRA|6–4, 6–2, 6–4
+WIMBLEDON|M|1998|Pete Sampras|1| USA|Goran Ivanišević|14| CRO|6–7(2–7), 7–6(11–9), 6–4, 3–6, 6–2
+WIMBLEDON|M|1999|Pete Sampras|1| USA|Andre Agassi|4| USA|6–3, 6–4, 7–5
+WIMBLEDON|M|2000|Pete Sampras|1| USA|Patrick Rafter|12| AUS|6–7(10–12), 7–6(7–5), 6–4, 6–2
+WIMBLEDON|M|2001|Goran Ivanišević|999| CRO|Patrick Rafter|3| AUS|6–3, 3–6, 6–3, 2–6, 9–7
+WIMBLEDON|M|2002|Lleyton Hewitt|1| AUS|David Nalbandian|28| ARG|6–1, 6–3, 6–2
+WIMBLEDON|M|2003|Roger Federer|4|  SUI|Mark Philippoussis|0| AUS|7–6(7–5), 6–2, 7–6(7–3)
+WIMBLEDON|M|2004|Roger Federer|1|  SUI|Andy Roddick|2| USA|4–6, 7–5, 7–6(7–3), 6–4
+WIMBLEDON|M|2005|Roger Federer|1|  SUI|Andy Roddick|2| USA|6–2, 7–6(7–2), 6–4
+WIMBLEDON|M|2006|Roger Federer|1|  SUI|Rafael Nadal|2| ESP|6–0, 7–6(7–5), 6–7(2–7), 6–3
+WIMBLEDON|M|2007|Roger Federer|1|  SUI|Rafael Nadal|2| ESP|7–6(9–7), 4–6, 7–6(7–3), 2–6, 6–2
+WIMBLEDON|M|2008|Rafael Nadal|2| ESP|Roger Federer|1|  SUI|6–4, 6–4, 6–7(5–7), 6–7(8–10), 9–7
+WIMBLEDON|M|2009|Roger Federer|2|  SUI|Andy Roddick|6| USA|5–7, 7–6(8–6), 7–6(7–5), 3–6, 16–14
+WIMBLEDON|M|2010|Rafael Nadal|2| ESP|Tomáš Berdych|12| CZE|6–3, 7–5, 6–4
+WIMBLEDON|M|2011|Novak Djokovic|2| SRB|Rafael Nadal|1| ESP|6–4, 6–1, 1–6, 6–3
+WIMBLEDON|M|2012|Roger Federer|3|  SUI|Andy Murray|4| GBR|4–6, 7–5, 6–3, 6–4
+WIMBLEDON|M|2013|Andy Murray|2| GBR|Novak Djokovic|1| SRB|6–4, 7–5, 6–4
+WIMBLEDON|M|2014|Novak Djokovic|1| SRB|Roger Federer|4|  SUI|6–7(7–9), 6–4, 7–6(7–4), 5–7, 6–4
+WIMBLEDON|M|2015|Novak Djokovic|1| SRB|Roger Federer|2|  SUI|7–6(7–1), 6–7(10–12), 6–4, 6–3
+WIMBLEDON|M|2016|Andy Murray|2| GBR|Milos Raonic|6| CAN|6–4, 7–6(7–3), 7–6(7–2)
+WIMBLEDON|M|2017|Roger Federer|3|  SUI|Marin Čilić|7| CRO|6–3, 6–1, 6–4
+WIMBLEDON|F|1968|Billie Jean King|1| USA|Judy Tegart|7| AUS|9–7, 7–5
+WIMBLEDON|F|1969|Ann Jones|4| GBR|Billie Jean King|2| USA|3–6, 6–3, 6–2
+WIMBLEDON|F|1970|Margaret Court|1| AUS|Billie Jean King|2| USA|14–12, 11–9
+WIMBLEDON|F|1971|Evonne Goolagong|3| AUS|Margaret Court|1| AUS|6–4, 6–1
+WIMBLEDON|F|1972|Billie Jean King|2| USA|Evonne Goolagong|1| AUS|6–3, 6–3
+WIMBLEDON|F|1973|Billie Jean King|2| USA|Chris Evert|4| USA|6–0, 7–5
+WIMBLEDON|F|1974|Chris Evert|2| USA|Olga Morozova|8| URS|6–0, 6–4
+WIMBLEDON|F|1975|Billie Jean King|3| USA|Evonne Goolagong Cawley|4| AUS|6–0, 6–1
+WIMBLEDON|F|1976|Chris Evert|1| USA|Evonne Goolagong Cawley|2| AUS|6–3, 4–6, 8–6
+WIMBLEDON|F|1977|Virginia Wade|3| GBR|Betty Stöve|7| NED|4–6, 6–3, 6–1
+WIMBLEDON|F|1978|Martina Navratilova|2| USA|Chris Evert|1| USA|2–6, 6–4, 7–5
+WIMBLEDON|F|1979|Martina Navratilova|1| USA|Chris Evert Lloyd|2| USA|6–4, 6–4
+WIMBLEDON|F|1980|Evonne Goolagong Cawley|4| AUS|Chris Evert Lloyd|3| USA|6–1, 7–6(7–4)
+WIMBLEDON|F|1981|Chris Evert Lloyd|1| USA|Hana Mandlíková|2| TCH|6–2, 6–2
+WIMBLEDON|F|1982|Martina Navratilova|1| USA|Chris Evert Lloyd|2| USA|6–1, 3–6, 6–2
+WIMBLEDON|F|1983|Martina Navratilova|1| USA|Andrea Jaeger|3| USA|6–0, 6–3
+WIMBLEDON|F|1984|Martina Navratilova|1| USA|Chris Evert Lloyd|2| USA|7–6(7–5), 6–2
+WIMBLEDON|F|1985|Martina Navratilova|1| USA|Chris Evert Lloyd|1| USA|4–6, 6–3, 6–2
+WIMBLEDON|F|1986|Martina Navratilova|1| USA|Hana Mandlíková|3| TCH|7–6(7–1), 6–3
+WIMBLEDON|F|1987|Martina Navratilova|1| USA|Steffi Graf|2| FRG|7–5, 6–3
+WIMBLEDON|F|1988|Steffi Graf|1| FRG|Martina Navratilova|2| USA|5–7, 6–2, 6–1
+WIMBLEDON|F|1989|Steffi Graf|1| FRG|Martina Navratilova|2| USA|6–2, 6–7(1–7), 6–1
+WIMBLEDON|F|1990|Martina Navratilova|2| USA|Zina Garrison|5| USA|6–4, 6–1
+WIMBLEDON|F|1991|Steffi Graf|1| GER|Gabriela Sabatini|2| ARG|6–4, 3–6, 8–6
+WIMBLEDON|F|1992|Steffi Graf|2| GER|Monica Seles|1| YUG|6–2, 6–1
+WIMBLEDON|F|1993|Steffi Graf|1| GER|Jana Novotná|8| CZE|7–6(8–6), 1–6, 6–4
+WIMBLEDON|F|1994|Conchita Martínez|3| ESP|Martina Navratilova|4| USA|6–4, 3–6, 6–3
+WIMBLEDON|F|1995|Steffi Graf|1| GER|Arantxa Sánchez Vicario|2| ESP|4–6, 6–1, 7–5
+WIMBLEDON|F|1996|Steffi Graf|1| GER|Arantxa Sánchez Vicario|4| ESP|6–3, 7–5
+WIMBLEDON|F|1997|Martina Hingis|1| SUI|Jana Novotná|3| CZE|2–6, 6–3, 6–3
+WIMBLEDON|F|1998|Jana Novotná|3| CZE|Nathalie Tauziat|16| FRA|6–4, 7–6(7–2)
+WIMBLEDON|F|1999|Lindsay Davenport|3| USA|Steffi Graf|2| GER|6–4, 7–5
+WIMBLEDON|F|2000|Venus Williams|4| USA|Lindsay Davenport|2| USA|6–3, 7–6(7–3)
+WIMBLEDON|F|2001|Venus Williams|2| USA|Justine Henin|8| BEL|6–1, 3–6, 6–0
+WIMBLEDON|F|2002|Serena Williams|2| USA|Venus Williams|1| USA|7–6(7–4), 6–3
+WIMBLEDON|F|2003|Serena Williams|1| USA|Venus Williams|4| USA|4–6, 6–4, 6–2
+WIMBLEDON|F|2004|Maria Sharapova|13| RUS|Serena Williams|1| USA|6–1, 6–4
+WIMBLEDON|F|2005|Venus Williams|14| USA|Lindsay Davenport|1| USA|4–6, 7–6(7–4), 9–7
+WIMBLEDON|F|2006|Amélie Mauresmo|1| FRA|Justine Henin|3| BEL|2–6, 6–3, 6–4
+WIMBLEDON|F|2007|Venus Williams|23| USA|Marion Bartoli|18| FRA|6–4, 6–1
+WIMBLEDON|F|2008|Venus Williams|7| USA|Serena Williams|6| USA|7–5, 6–4
+WIMBLEDON|F|2009|Serena Williams|2| USA|Venus Williams|3| USA|7–6(7–3), 6–2
+WIMBLEDON|F|2010|Serena Williams|1| USA|Vera Zvonareva|21| RUS|6–3, 6–2
+WIMBLEDON|F|2011|Petra Kvitová|8| CZE|Maria Sharapova|5| RUS|6–3, 6–4
+WIMBLEDON|F|2012|Serena Williams|3| USA|Agnieszka Radwańska|6| POL|6–1, 5–7, 6–2
+WIMBLEDON|F|2013|Marion Bartoli|15| FRA|Sabine Lisicki|23| GER|6–1, 6–4
+WIMBLEDON|F|2014|Petra Kvitová|6| CZE|Eugenie Bouchard|13| CAN|6–3, 6–0
+WIMBLEDON|F|2015|Serena Williams|1| USA|Garbiñe Muguruza|20| ESP|6–4, 6–4
+WIMBLEDON|F|2016|Serena Williams|1| USA|Angelique Kerber|4| GER|7–5, 6–3
+WIMBLEDON|F|2017|Garbiñe Muguruza|14| ESP|Venus Williams|10| USA|7–5, 6–0
+USOPEN|M|1968|Arthur Ashe|5| USA|Tom Okker|8| NED|14–12, 5–7, 6–3, 3–6, 6–3
+USOPEN|M|1969|Rod Laver|1| AUS|Tony Roche|3| AUS|7–9, 6–1, 6–2, 6–2
+USOPEN|M|1970|Ken Rosewall|3| AUS|Tony Roche|4| AUS|2–6, 6–4, 7–6(5–2), 6–3[g]
+USOPEN|M|1971|Stan Smith|2| USA|Jan Kodeš|0| TCH|3–6, 6–3, 6–2, 7–6(5–3)
+USOPEN|M|1972|Ilie Năstase|4| ROU|Arthur Ashe|6| USA|3–6, 6–3, 6–7(1–5), 6–4, 6–3
+USOPEN|M|1973|John Newcombe|10| AUS|Jan Kodeš|6| TCH|6–4, 1–6, 4–6, 6–2, 6–3
+USOPEN|M|1974|Jimmy Connors|1| USA|Ken Rosewall|5| AUS|6–1, 6–0, 6–1
+USOPEN|M|1975|Manuel Orantes|3| ESP|Jimmy Connors|1| USA|6–4, 6–3, 6–3
+USOPEN|M|1976|Jimmy Connors|1| USA|Björn Borg|2| SWE|6–4, 3–6, 7–6(11–9), 6–4
+USOPEN|M|1977|Guillermo Vilas|4| ARG|Jimmy Connors|2| USA|2–6, 6–3, 7–6(7–4), 6–0
+USOPEN|M|1978|Jimmy Connors|2| USA|Björn Borg|1| SWE|6–4, 6–2, 6–2
+USOPEN|M|1979|John McEnroe|3| USA|Vitas Gerulaitis|4| USA|7–5, 6–3, 6–3
+USOPEN|M|1980|John McEnroe|2| USA|Björn Borg|1| SWE|7–6(7–4), 6–1, 6–7(5–7), 5–7, 6–4
+USOPEN|M|1981|John McEnroe|1| USA|Björn Borg|2| SWE|4–6, 6–2, 6–4, 6–3
+USOPEN|M|1982|Jimmy Connors|2| USA|Ivan Lendl|3| TCH|6–3, 6–2, 4–6, 6–4
+USOPEN|M|1983|Jimmy Connors|3| USA|Ivan Lendl|2| TCH|6–3, 6–7(2–7), 7–5, 6–0
+USOPEN|M|1984|John McEnroe|1| USA|Ivan Lendl|2| TCH|6–3, 6–4, 6–1
+USOPEN|M|1985|Ivan Lendl|2| TCH|John McEnroe|1| USA|7–6(7–1), 6–3, 6–4
+USOPEN|M|1986|Ivan Lendl|1| TCH|Miloslav Mečíř|16| TCH|6–4, 6–2, 6–0
+USOPEN|M|1987|Ivan Lendl|1| TCH|Mats Wilander|3| SWE|6–7(7–9), 6–0, 7–6(7–4), 6–4
+USOPEN|M|1988|Mats Wilander|2| SWE|Ivan Lendl|1| TCH|6–4, 4–6, 6–3, 5–7, 6–4
+USOPEN|M|1989|Boris Becker|2| FRG|Ivan Lendl|1| TCH|7–6(7–2), 1–6, 6–3, 7–6(7–4)
+USOPEN|M|1990|Pete Sampras|12| USA|Andre Agassi|4| USA|6–4, 6–3, 6–2
+USOPEN|M|1991|Stefan Edberg|2| SWE|Jim Courier|4| USA|6–2, 6–4, 6–0
+USOPEN|M|1992|Stefan Edberg|2| SWE|Pete Sampras|3| USA|3–6, 6–4, 7–6(7–5), 6–2
+USOPEN|M|1993|Pete Sampras|2| USA|Cédric Pioline|15| FRA|6–4, 6–4, 6–3
+USOPEN|M|1994|Andre Agassi|0| USA|Michael Stich|4| GER|6–1, 7–6(7–5), 7–5
+USOPEN|M|1995|Pete Sampras|2| USA|Andre Agassi|1| USA|6–4, 6–3, 4–6, 7–5
+USOPEN|M|1996|Pete Sampras|1| USA|Michael Chang|2| USA|6–1, 6–4, 7–6(7–3)
+USOPEN|M|1997|Patrick Rafter|13| AUS|Greg Rusedski|0| GBR|6–3, 6–2, 4–6, 7–5
+USOPEN|M|1998|Patrick Rafter|3| AUS|Mark Philippoussis|0| AUS|6–3, 3–6, 6–2, 6–0
+USOPEN|M|1999|Andre Agassi|2| USA|Todd Martin|7| USA|6–4, 6–7(5–7), 6–7(2–7), 6–3, 6–2
+USOPEN|M|2000|Marat Safin|6| RUS|Pete Sampras|4| USA|6–4, 6–3, 6–3
+USOPEN|M|2001|Lleyton Hewitt|4| AUS|Pete Sampras|10| USA|7–6(7–4), 6–1, 6–1
+USOPEN|M|2002|Pete Sampras|17| USA|Andre Agassi|6| USA|6–3, 6–4, 5–7, 6–4
+USOPEN|M|2003|Andy Roddick|4| USA|Juan Carlos Ferrero|3| ESP|6–3, 7–6(7–2), 6–3
+USOPEN|M|2004|Roger Federer|1|SUI|Lleyton Hewitt|4| AUS|6–0, 7–6(7–3), 6–0
+USOPEN|M|2005|Roger Federer|1|SUI|Andre Agassi|7| USA|6–3, 2–6, 7–6(7–1), 6–1
+USOPEN|M|2006|Roger Federer|1|SUI|Andy Roddick|9| USA|6–2, 4–6, 7–5, 6–1
+USOPEN|M|2007|Roger Federer|1|SUI|Novak Djokovic|3| SRB|7–6(7–4), 7–6(7–2), 6–4
+USOPEN|M|2008|Roger Federer|2|SUI|Andy Murray|6| GBR|6–2, 7–5, 6–2
+USOPEN|M|2009|Juan Martin Potro|6| ARG|Roger Federer|1| SUI|3–6, 7–6(7–5), 4–6, 7–6(7–4), 6–2
+USOPEN|M|2010|Rafael Nadal|1| ESP|Novak Djokovic|3| SRB|6–4, 5–7, 6–4, 6–2
+USOPEN|M|2011|Novak Djokovic|1| SRB|Rafael Nadal|2| ESP|6–2, 6–4, 6–7(3–7), 6–1
+USOPEN|M|2012|Andy Murray|3| GBR|Novak Djokovic|2| SRB|7–6(12–10), 7–5, 2–6, 3–6, 6–2
+USOPEN|M|2013|Rafael Nadal|2| ESP|Novak Djokovic|1| SRB|6–2, 3–6, 6–4, 6–1
+USOPEN|M|2014|Marin Čilić|14| CRO|Kei Nishikori|10| JPN|6–3, 6–3, 6–3
+USOPEN|M|2015|Novak Djokovic|1| SRB|Roger Federer|2| SUI|6–4, 5–7, 6–4, 6–4
+USOPEN|M|2016|Stan Wawrinka|3| SUI|Novak Djokovic|1| SRB|6–7(1–7), 6–4, 7–5, 6–3
+USOPEN|M|2017|Rafael Nadal|1| ESP|Kevin Anderson|28| RSA|6–3, 6–3, 6–4
+USOPEN|F|1968|Virginia Wade|6| GBR|Billie Jean King|1| USA|6–4, 6–2
+USOPEN|F|1969|Margaret Court|2| AUS|Nancy Richey|6| USA|6–2, 6–2
+USOPEN|F|1970|Margaret Court|1| AUS|Rosemary Casals|2| USA|6–2, 2–6, 6–1
+USOPEN|F|1971|Billie Jean King|1| USA|Rosemary Casals|2| USA|6–4, 7–6
+USOPEN|F|1972|Billie Jean King|1| USA|Kerry Melville Reid|9| AUS|6–3, 7–5
+USOPEN|F|1973|Margaret Court|1| AUS|Evonne Goolagong Cawley|4| AUS|7–6, 5–7, 6–2
+USOPEN|F|1974|Billie Jean King|2| USA|Evonne Goolagong Cawley|5| AUS|3–6, 6–3, 7–5
+USOPEN|F|1975|Chris Evert|1| USA|Evonne Goolagong Cawley|4| AUS|5–7, 6–4, 6–2
+USOPEN|F|1976|Chris Evert|1| USA|Evonne Goolagong Cawley|2| AUS|6–3, 6–0
+USOPEN|F|1977|Chris Evert|1| USA|Wendy Turnbull|12| AUS|7–6, 6–2
+USOPEN|F|1978|Chris Evert|1| USA|Pam Shriver|16| USA|7–5, 6–4
+USOPEN|F|1979|Tracy Austin|3| USA|Chris Evert|1| USA|6–4, 6–3
+USOPEN|F|1980|Chris Evert|3| USA|Hana Mandlíková|9| TCH|5–7, 6–1, 6–1
+USOPEN|F|1981|Tracy Austin|3| USA|Martina Navratilova|4| USA|1–6, 7–6(7–4), 7–6(7–1)
+USOPEN|F|1982|Chris Evert|2| USA|Hana Mandlíková|5| TCH|6–3, 6–1
+USOPEN|F|1983|Martina Navratilova|1| USA|Chris Evert|2| USA|6–1, 6–3
+USOPEN|F|1984|Martina Navratilova|1| USA|Chris Evert|2| USA|4–6, 6–4, 6–4
+USOPEN|F|1985|Hana Mandlíková|3| TCH|Martina Navratilova|2| USA|7–6(7–3), 1–6, 7–6(7–2)
+USOPEN|F|1986|Martina Navratilova|1| USA|Helena Suková|7| TCH|6–3, 6–2
+USOPEN|F|1987|Martina Navratilova|2| USA|Steffi Graf|1| FRG|7–6(7–4), 6–1
+USOPEN|F|1988|Steffi Graf|1| FRG|Gabriela Sabatini|5| ARG|6–3, 3–6, 6–1
+USOPEN|F|1989|Steffi Graf|1| FRG|Martina Navratilova|2| USA|3–6, 7–5, 6–1
+USOPEN|F|1990|Gabriela Sabatini|5| ARG|Steffi Graf|1| FRG|6–2, 7–6(7–4)
+USOPEN|F|1991|Monica Seles|2| YUG|Martina Navratilova|6| USA|7–6(7–1), 6–1
+USOPEN|F|1992|Monica Seles|1| YUG|Arantxa Sánchez Vicario|5| ESP|6–3, 6–3
+USOPEN|F|1993|Steffi Graf|1| GER|Helena Suková|12| CZE|6–3, 6–3
+USOPEN|F|1994|Arantxa Sánchez Vicario|2| ESP|Steffi Graf|1| GER|1–6, 7–6(7–3), 6–4
+USOPEN|F|1995|Steffi Graf|1| GER|Monica Seles|2| USA|7–6(8-6), 0–6, 6–3
+USOPEN|F|1996|Steffi Graf|1| GER|Monica Seles|2| USA|7–5, 6–4
+USOPEN|F|1997|Martina Hingis|1| SUI|Venus Williams|0| USA|6–0, 6–4
+USOPEN|F|1998|Lindsay Davenport|2| USA|Martina Hingis|1| SUI|6–3, 7–5
+USOPEN|F|1999|Serena Williams|7| USA|Martina Hingis|1| SUI|6–3, 7–6(7–4)
+USOPEN|F|2000|Venus Williams|3| USA|Lindsay Davenport|2| USA|6–4, 7–5
+USOPEN|F|2001|Venus Williams|4| USA|Serena Williams|10| USA|6–2, 6–4
+USOPEN|F|2002|Serena Williams|1| USA|Venus Williams|2| USA|6–4, 6–3
+USOPEN|F|2003|Justine Henin|2| BEL|Kim Clijsters|1| BEL|7–5, 6–1
+USOPEN|F|2004|Svetlana Kuznetsova|9| RUS|Elena Dementieva|6| RUS|6–3, 7–5
+USOPEN|F|2005|Kim Clijsters|4| BEL|Mary Pierce|12| FRA|6–3, 6–1
+USOPEN|F|2006|Maria Sharapova|3| RUS|Justine Henin|2| BEL|6–4, 6–4
+USOPEN|F|2007|Justine Henin|1| BEL|Svetlana Kuznetsova|4| RUS|6–1, 6–3
+USOPEN|F|2008|Serena Williams|4| USA|Jelena Janković|2| SRB|6–4, 7–5
+USOPEN|F|2009|Kim Clijsters|999| BEL|Caroline Wozniacki|9| DEN|7–5, 6–3
+USOPEN|F|2010|Kim Clijsters|2| BEL|Vera Zvonareva|7| RUS|6–2, 6–1
+USOPEN|F|2011|Samantha Stosur|9| AUS|Serena Williams|28| USA|6–2, 6–3
+USOPEN|F|2012|Serena Williams|4| USA|Victoria Azarenka|1| BLR|6–2, 2–6, 7–5
+USOPEN|F|2013|Serena Williams|1| USA|Victoria Azarenka|2| BLR|7–5, 6–7(6–8), 6–1
+USOPEN|F|2014|Serena Williams|1| USA|Caroline Wozniacki|10| DEN|6–3, 6–3
+USOPEN|F|2015|Flavia Pennetta|26| ITA|Roberta Vinci|0| ITA|7–6(7–4), 6–2
+USOPEN|F|2016|Angelique Kerber|2| GER|Karolína Plíšková|10| CZE|6–3, 4–6, 6–4
+USOPEN|F|2017|Sloane Stephens|888| USA|Madison Keys|15| USA|6–3, 6–0

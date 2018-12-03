@@ -1,0 +1,937 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.Azure.CognitiveServices.Language.TextAnalytics</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.ITextAnalyticsClient">
+            <summary>
+            The Text Analytics API is a suite of text analytics web services built
+            with best-in-class Microsoft machine learning algorithms. The API can
+            be used to analyze unstructured text for tasks such as sentiment
+            analysis, key phrase extraction and language detection. No training
+            data is needed to use this API; just bring your text data. This API
+            uses advanced natural language processing techniques to deliver best in
+            class predictions. Further documentation can be found in
+            https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.ITextAnalyticsClient.SerializationSettings">
+            <summary>
+            The base URI of the service.
+            </summary>
+            <summary>
+            Gets or sets json serialization settings.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.ITextAnalyticsClient.DeserializationSettings">
+            <summary>
+            Gets or sets json deserialization settings.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.ITextAnalyticsClient.Endpoint">
+            <summary>
+            Supported Cognitive Services endpoints (protocol and hostname, for
+            example: https://westus.api.cognitive.microsoft.com).
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.ITextAnalyticsClient.Credentials">
+            <summary>
+            Subscription credentials which uniquely identify client
+            subscription.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.ITextAnalyticsClient.KeyPhrasesWithHttpMessagesAsync(Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageBatchInput,System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}},System.Threading.CancellationToken)">
+            <summary>
+            The API returns a list of strings denoting the key talking points
+            in the input text.
+            </summary>
+            <remarks>
+            See the &lt;a
+            href="https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview#supported-languages"&gt;Text
+            Analytics Documentation&lt;/a&gt; for details about the languages
+            that are supported by key phrase extraction.
+            </remarks>
+            <param name='input'>
+            Collection of documents to analyze. Documents can now contain a
+            language field to indicate the text language
+            </param>
+            <param name='customHeaders'>
+            The headers that will be added to request.
+            </param>
+            <param name='cancellationToken'>
+            The cancellation token.
+            </param>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.ITextAnalyticsClient.DetectLanguageWithHttpMessagesAsync(Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.BatchInput,System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}},System.Threading.CancellationToken)">
+            <summary>
+            The API returns the detected language and a numeric score between 0
+            and 1.
+            </summary>
+            <remarks>
+            Scores close to 1 indicate 100% certainty that the identified
+            language is true. A total of 120 languages are supported.
+            </remarks>
+            <param name='input'>
+            Collection of documents to analyze.
+            </param>
+            <param name='customHeaders'>
+            The headers that will be added to request.
+            </param>
+            <param name='cancellationToken'>
+            The cancellation token.
+            </param>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.ITextAnalyticsClient.SentimentWithHttpMessagesAsync(Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageBatchInput,System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}},System.Threading.CancellationToken)">
+            <summary>
+            The API returns a numeric score between 0 and 1.
+            </summary>
+            <remarks>
+            Scores close to 1 indicate positive sentiment, while scores close
+            to 0 indicate negative sentiment. A score of 0.5 indicates the lack
+            of sentiment (e.g. a factoid statement). See the &lt;a
+            href="https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview#supported-languages"&gt;Text
+            Analytics Documentation&lt;/a&gt; for details about the languages
+            that are supported by sentiment analysis.
+            </remarks>
+            <param name='input'>
+            Collection of documents to analyze.
+            </param>
+            <param name='customHeaders'>
+            The headers that will be added to request.
+            </param>
+            <param name='cancellationToken'>
+            The cancellation token.
+            </param>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.ITextAnalyticsClient.EntitiesWithHttpMessagesAsync(Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageBatchInput,System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}},System.Threading.CancellationToken)">
+            <summary>
+            The API returns a list of recognized entities in a given document.
+            </summary>
+            <remarks>
+            To get even more information on each recognized entity we recommend
+            using the Bing Entity Search API by querying for the recognized
+            entities names. See the &lt;a
+            href="https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/text-analytics-supported-languages"&gt;Supported
+            languages in Text Analytics API&lt;/a&gt; for the list of enabled
+            languages.
+            </remarks>
+            <param name='input'>
+            Collection of documents to analyze.
+            </param>
+            <param name='customHeaders'>
+            The headers that will be added to request.
+            </param>
+            <param name='cancellationToken'>
+            The cancellation token.
+            </param>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.BatchInput.#ctor">
+            <summary>
+            Initializes a new instance of the BatchInput class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.BatchInput.#ctor(System.Collections.Generic.IList{Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.Input})">
+            <summary>
+            Initializes a new instance of the BatchInput class.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.BatchInput.Documents">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.DetectedLanguage.#ctor">
+            <summary>
+            Initializes a new instance of the DetectedLanguage class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.DetectedLanguage.#ctor(System.String,System.String,System.Nullable{System.Double})">
+            <summary>
+            Initializes a new instance of the DetectedLanguage class.
+            </summary>
+            <param name="name">Long name of a detected language (e.g. English,
+            French).</param>
+            <param name="iso6391Name">A two letter representation of the
+            detected language according to the ISO 639-1 standard (e.g. en,
+            fr).</param>
+            <param name="score">A confidence score between 0 and 1. Scores
+            close to 1 indicate 100% certainty that the identified language is
+            true.</param>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.DetectedLanguage.Name">
+            <summary>
+            Gets or sets long name of a detected language (e.g. English,
+            French).
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.DetectedLanguage.Iso6391Name">
+            <summary>
+            Gets or sets a two letter representation of the detected language
+            according to the ISO 639-1 standard (e.g. en, fr).
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.DetectedLanguage.Score">
+            <summary>
+            Gets or sets a confidence score between 0 and 1. Scores close to 1
+            indicate 100% certainty that the identified language is true.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntitiesBatchResult.#ctor">
+            <summary>
+            Initializes a new instance of the EntitiesBatchResult class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntitiesBatchResult.#ctor(System.Collections.Generic.IList{Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntitiesBatchResultItem},System.Collections.Generic.IList{Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorRecord})">
+            <summary>
+            Initializes a new instance of the EntitiesBatchResult class.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntitiesBatchResult.Documents">
+            <summary>
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntitiesBatchResult.Errors">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntitiesBatchResultItem.#ctor">
+            <summary>
+            Initializes a new instance of the EntitiesBatchResultItem class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntitiesBatchResultItem.#ctor(System.String,System.Collections.Generic.IList{Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntityRecord})">
+            <summary>
+            Initializes a new instance of the EntitiesBatchResultItem class.
+            </summary>
+            <param name="id">Unique document identifier.</param>
+            <param name="entities">Recognized entities in the document.</param>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntitiesBatchResultItem.Id">
+            <summary>
+            Gets unique document identifier.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntitiesBatchResultItem.Entities">
+            <summary>
+            Gets recognized entities in the document.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntityRecord.#ctor">
+            <summary>
+            Initializes a new instance of the EntityRecord class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntityRecord.#ctor(System.String,System.Collections.Generic.IList{Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MatchRecord},System.String,System.String,System.String,System.String)">
+            <summary>
+            Initializes a new instance of the EntityRecord class.
+            </summary>
+            <param name="name">Entity formal name.</param>
+            <param name="matches">List of instances this entity appears in the
+            text.</param>
+            <param name="wikipediaLanguage">Wikipedia language for which the
+            WikipediaId and WikipediaUrl refers to.</param>
+            <param name="wikipediaId">Wikipedia unique identifier of the
+            recognized entity.</param>
+            <param name="wikipediaUrl">URL for the entity's English Wikipedia
+            page.</param>
+            <param name="bingId">Bing unique identifier of the recognized
+            entity. Use in conjunction with the Bing Entity Search API to fetch
+            additional relevant information.</param>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntityRecord.Name">
+            <summary>
+            Gets or sets entity formal name.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntityRecord.Matches">
+            <summary>
+            Gets list of instances this entity appears in the text.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntityRecord.WikipediaLanguage">
+            <summary>
+            Gets or sets wikipedia language for which the WikipediaId and
+            WikipediaUrl refers to.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntityRecord.WikipediaId">
+            <summary>
+            Gets or sets wikipedia unique identifier of the recognized entity.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntityRecord.WikipediaUrl">
+            <summary>
+            Gets URL for the entity's English Wikipedia page.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.EntityRecord.BingId">
+            <summary>
+            Gets or sets bing unique identifier of the recognized entity. Use
+            in conjunction with the Bing Entity Search API to fetch additional
+            relevant information.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorRecord.#ctor">
+            <summary>
+            Initializes a new instance of the ErrorRecord class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorRecord.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the ErrorRecord class.
+            </summary>
+            <param name="id">Input document unique identifier the error refers
+            to.</param>
+            <param name="message">Error message.</param>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorRecord.Id">
+            <summary>
+            Gets or sets input document unique identifier the error refers to.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorRecord.Message">
+            <summary>
+            Gets or sets error message.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponse.#ctor">
+            <summary>
+            Initializes a new instance of the ErrorResponse class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponse.#ctor(System.String,System.String,System.String,Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.InternalError)">
+            <summary>
+            Initializes a new instance of the ErrorResponse class.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponse.Code">
+            <summary>
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponse.Message">
+            <summary>
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponse.Target">
+            <summary>
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponse.InnerError">
+            <summary>
+            </summary>
+        </member>
+        <member name="T:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponseException">
+            <summary>
+            Exception thrown for an invalid response with ErrorResponse
+            information.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponseException.Request">
+            <summary>
+            Gets information about the associated HTTP request.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponseException.Response">
+            <summary>
+            Gets information about the associated HTTP response.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponseException.Body">
+            <summary>
+            Gets or sets the body object.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponseException.#ctor">
+            <summary>
+            Initializes a new instance of the ErrorResponseException class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponseException.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the ErrorResponseException class.
+            </summary>
+            <param name="message">The exception message.</param>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponseException.#ctor(System.String,System.Exception)">
+            <summary>
+            Initializes a new instance of the ErrorResponseException class.
+            </summary>
+            <param name="message">The exception message.</param>
+            <param name="innerException">Inner exception.</param>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.Input.#ctor">
+            <summary>
+            Initializes a new instance of the Input class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.Input.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the Input class.
+            </summary>
+            <param name="id">Unique, non-empty document identifier.</param>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.Input.Id">
+            <summary>
+            Gets or sets unique, non-empty document identifier.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.Input.Text">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.InternalError.#ctor">
+            <summary>
+            Initializes a new instance of the InternalError class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.InternalError.#ctor(System.String,System.String,Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.InternalError)">
+            <summary>
+            Initializes a new instance of the InternalError class.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.InternalError.Code">
+            <summary>
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.InternalError.Message">
+            <summary>
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.InternalError.InnerError">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.KeyPhraseBatchResult.#ctor">
+            <summary>
+            Initializes a new instance of the KeyPhraseBatchResult class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.KeyPhraseBatchResult.#ctor(System.Collections.Generic.IList{Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.KeyPhraseBatchResultItem},System.Collections.Generic.IList{Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorRecord})">
+            <summary>
+            Initializes a new instance of the KeyPhraseBatchResult class.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.KeyPhraseBatchResult.Documents">
+            <summary>
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.KeyPhraseBatchResult.Errors">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.KeyPhraseBatchResultItem.#ctor">
+            <summary>
+            Initializes a new instance of the KeyPhraseBatchResultItem class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.KeyPhraseBatchResultItem.#ctor(System.Collections.Generic.IList{System.String},System.String)">
+            <summary>
+            Initializes a new instance of the KeyPhraseBatchResultItem class.
+            </summary>
+            <param name="keyPhrases">A list of representative words or phrases.
+            The number of key phrases returned is proportional to the number of
+            words in the input document.</param>
+            <param name="id">Unique document identifier.</param>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.KeyPhraseBatchResultItem.KeyPhrases">
+            <summary>
+            Gets a list of representative words or phrases. The number of key
+            phrases returned is proportional to the number of words in the
+            input document.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.KeyPhraseBatchResultItem.Id">
+            <summary>
+            Gets unique document identifier.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.LanguageBatchResult.#ctor">
+            <summary>
+            Initializes a new instance of the LanguageBatchResult class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.LanguageBatchResult.#ctor(System.Collections.Generic.IList{Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.LanguageBatchResultItem},System.Collections.Generic.IList{Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorRecord})">
+            <summary>
+            Initializes a new instance of the LanguageBatchResult class.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.LanguageBatchResult.Documents">
+            <summary>
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.LanguageBatchResult.Errors">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.LanguageBatchResultItem.#ctor">
+            <summary>
+            Initializes a new instance of the LanguageBatchResultItem class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.LanguageBatchResultItem.#ctor(System.String,System.Collections.Generic.IList{Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.DetectedLanguage})">
+            <summary>
+            Initializes a new instance of the LanguageBatchResultItem class.
+            </summary>
+            <param name="id">Unique document identifier.</param>
+            <param name="detectedLanguages">A list of extracted
+            languages.</param>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.LanguageBatchResultItem.Id">
+            <summary>
+            Gets unique document identifier.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.LanguageBatchResultItem.DetectedLanguages">
+            <summary>
+            Gets a list of extracted languages.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MatchRecord.#ctor">
+            <summary>
+            Initializes a new instance of the MatchRecord class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MatchRecord.#ctor(System.String,System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            Initializes a new instance of the MatchRecord class.
+            </summary>
+            <param name="text">Entity text as appears in the request.</param>
+            <param name="offset">Start position (in Unicode characters) for the
+            entity match text.</param>
+            <param name="length">Length (in Unicode characters) for the entity
+            match text.</param>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MatchRecord.Text">
+            <summary>
+            Gets or sets entity text as appears in the request.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MatchRecord.Offset">
+            <summary>
+            Gets or sets start position (in Unicode characters) for the entity
+            match text.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MatchRecord.Length">
+            <summary>
+            Gets or sets length (in Unicode characters) for the entity match
+            text.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageBatchInput.#ctor">
+            <summary>
+            Initializes a new instance of the MultiLanguageBatchInput class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageBatchInput.#ctor(System.Collections.Generic.IList{Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageInput})">
+            <summary>
+            Initializes a new instance of the MultiLanguageBatchInput class.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageBatchInput.Documents">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageInput.#ctor">
+            <summary>
+            Initializes a new instance of the MultiLanguageInput class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageInput.#ctor(System.String,System.String,System.String)">
+            <summary>
+            Initializes a new instance of the MultiLanguageInput class.
+            </summary>
+            <param name="language">This is the 2 letter ISO 639-1
+            representation of a language. For example, use "en" for English;
+            "es" for Spanish etc.,</param>
+            <param name="id">Unique, non-empty document identifier.</param>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageInput.Language">
+            <summary>
+            Gets or sets this is the 2 letter ISO 639-1 representation of a
+            language. For example, use "en" for English; "es" for Spanish etc.,
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageInput.Id">
+            <summary>
+            Gets or sets unique, non-empty document identifier.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageInput.Text">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.SentimentBatchResult.#ctor">
+            <summary>
+            Initializes a new instance of the SentimentBatchResult class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.SentimentBatchResult.#ctor(System.Collections.Generic.IList{Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.SentimentBatchResultItem},System.Collections.Generic.IList{Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorRecord})">
+            <summary>
+            Initializes a new instance of the SentimentBatchResult class.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.SentimentBatchResult.Documents">
+            <summary>
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.SentimentBatchResult.Errors">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.SentimentBatchResultItem.#ctor">
+            <summary>
+            Initializes a new instance of the SentimentBatchResultItem class.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.SentimentBatchResultItem.#ctor(System.Nullable{System.Double},System.String)">
+            <summary>
+            Initializes a new instance of the SentimentBatchResultItem class.
+            </summary>
+            <param name="score">A decimal number between 0 and 1 denoting the
+            sentiment of the document. A score above 0.7 usually refers to a
+            positive document while a score below 0.3 normally has a negative
+            connotation. Mid values refer to neutral text.</param>
+            <param name="id">Unique document identifier.</param>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.SentimentBatchResultItem.Score">
+            <summary>
+            Gets a decimal number between 0 and 1 denoting the sentiment of the
+            document. A score above 0.7 usually refers to a positive document
+            while a score below 0.3 normally has a negative connotation. Mid
+            values refer to neutral text.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.SentimentBatchResultItem.Id">
+            <summary>
+            Gets unique document identifier.
+            </summary>
+        </member>
+        <member name="T:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient">
+            <summary>
+            The Text Analytics API is a suite of text analytics web services built
+            with best-in-class Microsoft machine learning algorithms. The API can
+            be used to analyze unstructured text for tasks such as sentiment
+            analysis, key phrase extraction and language detection. No training
+            data is needed to use this API; just bring your text data. This API
+            uses advanced natural language processing techniques to deliver best in
+            class predictions. Further documentation can be found in
+            https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient.BaseUri">
+            <summary>
+            The base URI of the service.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient.SerializationSettings">
+            <summary>
+            Gets or sets json serialization settings.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient.DeserializationSettings">
+            <summary>
+            Gets or sets json deserialization settings.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient.Endpoint">
+            <summary>
+            Supported Cognitive Services endpoints (protocol and hostname, for example:
+            https://westus.api.cognitive.microsoft.com).
+            </summary>
+        </member>
+        <member name="P:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient.Credentials">
+            <summary>
+            Subscription credentials which uniquely identify client subscription.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient.#ctor(System.Net.Http.DelegatingHandler[])">
+            <summary>
+            Initializes a new instance of the TextAnalyticsClient class.
+            </summary>
+            <param name='handlers'>
+            Optional. The delegating handlers to add to the http client pipeline.
+            </param>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient.#ctor(System.Net.Http.HttpClientHandler,System.Net.Http.DelegatingHandler[])">
+            <summary>
+            Initializes a new instance of the TextAnalyticsClient class.
+            </summary>
+            <param name='rootHandler'>
+            Optional. The http client handler used to handle http transport.
+            </param>
+            <param name='handlers'>
+            Optional. The delegating handlers to add to the http client pipeline.
+            </param>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient.#ctor(Microsoft.Rest.ServiceClientCredentials,System.Net.Http.DelegatingHandler[])">
+            <summary>
+            Initializes a new instance of the TextAnalyticsClient class.
+            </summary>
+            <param name='credentials'>
+            Required. Subscription credentials which uniquely identify client subscription.
+            </param>
+            <param name='handlers'>
+            Optional. The delegating handlers to add to the http client pipeline.
+            </param>
+            <exception cref="T:System.ArgumentNullException">
+            Thrown when a required parameter is null
+            </exception>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient.#ctor(Microsoft.Rest.ServiceClientCredentials,System.Net.Http.HttpClientHandler,System.Net.Http.DelegatingHandler[])">
+            <summary>
+            Initializes a new instance of the TextAnalyticsClient class.
+            </summary>
+            <param name='credentials'>
+            Required. Subscription credentials which uniquely identify client subscription.
+            </param>
+            <param name='rootHandler'>
+            Optional. The http client handler used to handle http transport.
+            </param>
+            <param name='handlers'>
+            Optional. The delegating handlers to add to the http client pipeline.
+            </param>
+            <exception cref="T:System.ArgumentNullException">
+            Thrown when a required parameter is null
+            </exception>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient.Initialize">
+            <summary>
+            Initializes client properties.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient.KeyPhrasesWithHttpMessagesAsync(Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageBatchInput,System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}},System.Threading.CancellationToken)">
+            <summary>
+            The API returns a list of strings denoting the key talking points in the
+            input text.
+            </summary>
+            <remarks>
+            See the &lt;a
+            href="https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview#supported-languages"&gt;Text
+            Analytics Documentation&lt;/a&gt; for details about the languages that are
+            supported by key phrase extraction.
+            </remarks>
+            <param name='input'>
+            Collection of documents to analyze. Documents can now contain a language
+            field to indicate the text language
+            </param>
+            <param name='customHeaders'>
+            Headers that will be added to request.
+            </param>
+            <param name='cancellationToken'>
+            The cancellation token.
+            </param>
+            <exception cref="T:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponseException">
+            Thrown when the operation returned an invalid status code
+            </exception>
+            <exception cref="T:Microsoft.Rest.SerializationException">
+            Thrown when unable to deserialize the response
+            </exception>
+            <exception cref="T:Microsoft.Rest.ValidationException">
+            Thrown when a required parameter is null
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+            Thrown when a required parameter is null
+            </exception>
+            <return>
+            A response object containing the response body and response headers.
+            </return>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient.DetectLanguageWithHttpMessagesAsync(Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.BatchInput,System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}},System.Threading.CancellationToken)">
+            <summary>
+            The API returns the detected language and a numeric score between 0 and 1.
+            </summary>
+            <remarks>
+            Scores close to 1 indicate 100% certainty that the identified language is
+            true. A total of 120 languages are supported.
+            </remarks>
+            <param name='input'>
+            Collection of documents to analyze.
+            </param>
+            <param name='customHeaders'>
+            Headers that will be added to request.
+            </param>
+            <param name='cancellationToken'>
+            The cancellation token.
+            </param>
+            <exception cref="T:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponseException">
+            Thrown when the operation returned an invalid status code
+            </exception>
+            <exception cref="T:Microsoft.Rest.SerializationException">
+            Thrown when unable to deserialize the response
+            </exception>
+            <exception cref="T:Microsoft.Rest.ValidationException">
+            Thrown when a required parameter is null
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+            Thrown when a required parameter is null
+            </exception>
+            <return>
+            A response object containing the response body and response headers.
+            </return>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient.SentimentWithHttpMessagesAsync(Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageBatchInput,System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}},System.Threading.CancellationToken)">
+            <summary>
+            The API returns a numeric score between 0 and 1.
+            </summary>
+            <remarks>
+            Scores close to 1 indicate positive sentiment, while scores close to 0
+            indicate negative sentiment. A score of 0.5 indicates the lack of sentiment
+            (e.g. a factoid statement). See the &lt;a
+            href="https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview#supported-languages"&gt;Text
+            Analytics Documentation&lt;/a&gt; for details about the languages that are
+            supported by sentiment analysis.
+            </remarks>
+            <param name='input'>
+            Collection of documents to analyze.
+            </param>
+            <param name='customHeaders'>
+            Headers that will be added to request.
+            </param>
+            <param name='cancellationToken'>
+            The cancellation token.
+            </param>
+            <exception cref="T:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponseException">
+            Thrown when the operation returned an invalid status code
+            </exception>
+            <exception cref="T:Microsoft.Rest.SerializationException">
+            Thrown when unable to deserialize the response
+            </exception>
+            <exception cref="T:Microsoft.Rest.ValidationException">
+            Thrown when a required parameter is null
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+            Thrown when a required parameter is null
+            </exception>
+            <return>
+            A response object containing the response body and response headers.
+            </return>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClient.EntitiesWithHttpMessagesAsync(Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageBatchInput,System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}},System.Threading.CancellationToken)">
+            <summary>
+            The API returns a list of recognized entities in a given document.
+            </summary>
+            <remarks>
+            To get even more information on each recognized entity we recommend using
+            the Bing Entity Search API by querying for the recognized entities names.
+            See the &lt;a
+            href="https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/text-analytics-supported-languages"&gt;Supported
+            languages in Text Analytics API&lt;/a&gt; for the list of enabled
+            languages.
+            </remarks>
+            <param name='input'>
+            Collection of documents to analyze.
+            </param>
+            <param name='customHeaders'>
+            Headers that will be added to request.
+            </param>
+            <param name='cancellationToken'>
+            The cancellation token.
+            </param>
+            <exception cref="T:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.ErrorResponseException">
+            Thrown when the operation returned an invalid status code
+            </exception>
+            <exception cref="T:Microsoft.Rest.SerializationException">
+            Thrown when unable to deserialize the response
+            </exception>
+            <exception cref="T:Microsoft.Rest.ValidationException">
+            Thrown when a required parameter is null
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+            Thrown when a required parameter is null
+            </exception>
+            <return>
+            A response object containing the response body and response headers.
+            </return>
+        </member>
+        <member name="T:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClientExtensions">
+            <summary>
+            Extension methods for TextAnalyticsClient.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClientExtensions.KeyPhrasesAsync(Microsoft.Azure.CognitiveServices.Language.TextAnalytics.ITextAnalyticsClient,Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageBatchInput,System.Threading.CancellationToken)">
+            <summary>
+            The API returns a list of strings denoting the key talking points in the
+            input text.
+            </summary>
+            <remarks>
+            See the &lt;a
+            href="https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview#supported-languages"&gt;Text
+            Analytics Documentation&lt;/a&gt; for details about the languages that are
+            supported by key phrase extraction.
+            </remarks>
+            <param name='operations'>
+            The operations group for this extension method.
+            </param>
+            <param name='input'>
+            Collection of documents to analyze. Documents can now contain a language
+            field to indicate the text language
+            </param>
+            <param name='cancellationToken'>
+            The cancellation token.
+            </param>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClientExtensions.DetectLanguageAsync(Microsoft.Azure.CognitiveServices.Language.TextAnalytics.ITextAnalyticsClient,Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.BatchInput,System.Threading.CancellationToken)">
+            <summary>
+            The API returns the detected language and a numeric score between 0 and 1.
+            </summary>
+            <remarks>
+            Scores close to 1 indicate 100% certainty that the identified language is
+            true. A total of 120 languages are supported.
+            </remarks>
+            <param name='operations'>
+            The operations group for this extension method.
+            </param>
+            <param name='input'>
+            Collection of documents to analyze.
+            </param>
+            <param name='cancellationToken'>
+            The cancellation token.
+            </param>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClientExtensions.SentimentAsync(Microsoft.Azure.CognitiveServices.Language.TextAnalytics.ITextAnalyticsClient,Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageBatchInput,System.Threading.CancellationToken)">
+            <summary>
+            The API returns a numeric score between 0 and 1.
+            </summary>
+            <remarks>
+            Scores close to 1 indicate positive sentiment, while scores close to 0
+            indicate negative sentiment. A score of 0.5 indicates the lack of sentiment
+            (e.g. a factoid statement). See the &lt;a
+            href="https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview#supported-languages"&gt;Text
+            Analytics Documentation&lt;/a&gt; for details about the languages that are
+            supported by sentiment analysis.
+            </remarks>
+            <param name='operations'>
+            The operations group for this extension method.
+            </param>
+            <param name='input'>
+            Collection of documents to analyze.
+            </param>
+            <param name='cancellationToken'>
+            The cancellation token.
+            </param>
+        </member>
+        <member name="M:Microsoft.Azure.CognitiveServices.Language.TextAnalytics.TextAnalyticsClientExtensions.EntitiesAsync(Microsoft.Azure.CognitiveServices.Language.TextAnalytics.ITextAnalyticsClient,Microsoft.Azure.CognitiveServices.Language.TextAnalytics.Models.MultiLanguageBatchInput,System.Threading.CancellationToken)">
+            <summary>
+            The API returns a list of recognized entities in a given document.
+            </summary>
+            <remarks>
+            To get even more information on each recognized entity we recommend using
+            the Bing Entity Search API by querying for the recognized entities names.
+            See the &lt;a
+            href="https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/text-analytics-supported-languages"&gt;Supported
+            languages in Text Analytics API&lt;/a&gt; for the list of enabled
+            languages.
+            </remarks>
+            <param name='operations'>
+            The operations group for this extension method.
+            </param>
+            <param name='input'>
+            Collection of documents to analyze.
+            </param>
+            <param name='cancellationToken'>
+            The cancellation token.
+            </param>
+        </member>
+    </members>
+</doc>
